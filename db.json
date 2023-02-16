@@ -1,0 +1,41 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan (Actualizado Nuevamente)",
+      "empresa": "Javascript FullStack",
+      "email": "juan2@juan.com",
+      "telefono": "102013313",
+      "notas": "Nueva Nota",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "empresa": "Javascript FullStack"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Javascript FullStack"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Javascript FullStack"
+    },
+    {
+      "nombre": "Elkin",
+      "empresa": "Javascript FullStack",
+      "email": "correo@correo.com",
+      "telefono": "39786254237",
+      "notas": "Solicita una app de comidas para un restaurante",
+      "id": 6
+    }
+  ]
+}
